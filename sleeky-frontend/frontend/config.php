@@ -33,10 +33,10 @@ define("recaptchaV3SecretKey", 'YOUR_SECRET_KEY_HERE');
 define('enableCustomURL', true);
 
 // Optional
-// Set a primary colour to be used. Default: #007bff
+// Set a primary colour to be used. Default: #752936
 // Here are some other colours you could try:
 // #f44336: red, #9c27b0: purple, #00bcd4: teal, #ff5722: orange
-define('colour', '#007bff');
+define('colour', '#752936');
 
 // Optional
 // Set a background image to be used.

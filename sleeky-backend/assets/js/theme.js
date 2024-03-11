@@ -105,7 +105,7 @@ $( document ).ready(function() {
 
   function handleNav() {
     // Add logo
-    $("#wrap").prepend(`<img class="logo" src="${url}/assets/img/logo_white.png">`);
+    $("#wrap").prepend(`<img class="logo" src="${url}/assets/img/bellarmine_white.png">`);
 
     // Add mobile nav hamburger
     $("#wrap").prepend(`<div class="nav-open" id="navOpen"><i class="material-icons">menu</i></div>`);
